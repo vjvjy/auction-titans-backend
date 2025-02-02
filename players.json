@@ -1,0 +1,392 @@
+[
+    {
+        "id": 1,
+        "name": "Rishabh Pant",
+        "team": "Lucknow Super Giants",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 2,
+        "name": "Shreyas Iyer",
+        "team": "Punjab Kings",
+        "role": "Batsman"
+    },
+    {
+        "id": 3,
+        "name": "Jos Buttler",
+        "team": "Gujarat Titans",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 4,
+        "name": "Kagiso Rabada",
+        "team": "Gujarat Titans",
+        "role": "Bowler"
+    },
+    {
+        "id": 5,
+        "name": "KL Rahul",
+        "team": "Delhi Capitals",
+        "role": "Batsman"
+    },
+    {
+        "id": 6,
+        "name": "Arshdeep Singh",
+        "team": "Punjab Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 7,
+        "name": "Yuzvendra Chahal",
+        "team": "Punjab Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 8,
+        "name": "Liam Livingstone",
+        "team": "Royal Challengers Bangalore",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 9,
+        "name": "David Miller",
+        "team": "Lucknow Super Giants",
+        "role": "Batsman"
+    },
+    {
+        "id": 10,
+        "name": "Mohammed Siraj",
+        "team": "Gujarat Titans",
+        "role": "Bowler"
+    },
+    {
+        "id": 11,
+        "name": "Mitchell Starc",
+        "team": "Delhi Capitals",
+        "role": "Bowler"
+    },
+    {
+        "id": 12,
+        "name": "Mohammed Shami",
+        "team": "Sunrisers Hyderabad",
+        "role": "Bowler"
+    },
+    {
+        "id": 13,
+        "name": "Venkatesh Iyer",
+        "team": "Kolkata Knight Riders",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 14,
+        "name": "Ravichandran Ashwin",
+        "team": "Chennai Super Kings",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 15,
+        "name": "Marcus Stoinis",
+        "team": "Punjab Kings",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 16,
+        "name": "Mitchell Marsh",
+        "team": "Lucknow Super Giants",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 17,
+        "name": "Glenn Maxwell",
+        "team": "Punjab Kings",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 18,
+        "name": "Quinton de Kock",
+        "team": "Kolkata Knight Riders",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 19,
+        "name": "Phil Salt",
+        "team": "Royal Challengers Bangalore",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 20,
+        "name": "Rahmanullah Gurbaz",
+        "team": "Kolkata Knight Riders",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 21,
+        "name": "Ishan Kishan",
+        "team": "Sunrisers Hyderabad",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 22,
+        "name": "Jitesh Sharma",
+        "team": "Royal Challengers Bangalore",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 23,
+        "name": "Josh Hazlewood",
+        "team": "Royal Challengers Bangalore",
+        "role": "Bowler"
+    },
+    {
+        "id": 24,
+        "name": "Prasidh Krishna",
+        "team": "Gujarat Titans",
+        "role": "Bowler"
+    },
+    {
+        "id": 25,
+        "name": "Avesh Khan",
+        "team": "Lucknow Super Giants",
+        "role": "Bowler"
+    },
+    {
+        "id": 26,
+        "name": "Anrich Nortje",
+        "team": "Kolkata Knight Riders",
+        "role": "Bowler"
+    },
+    {
+        "id": 27,
+        "name": "Jofra Archer",
+        "team": "Rajasthan Royals",
+        "role": "Bowler"
+    },
+    {
+        "id": 28,
+        "name": "Khaleel Ahmed",
+        "team": "Chennai Super Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 29,
+        "name": "T Natarajan",
+        "team": "Delhi Capitals",
+        "role": "Bowler"
+    },
+    {
+        "id": 30,
+        "name": "Trent Boult",
+        "team": "Mumbai Indians",
+        "role": "Bowler"
+    },
+    {
+        "id": 31,
+        "name": "Maheesh Theekshana",
+        "team": "Rajasthan Royals",
+        "role": "Bowler"
+    },
+    {
+        "id": 32,
+        "name": "Rahul Chahar",
+        "team": "Sunrisers Hyderabad",
+        "role": "Bowler"
+    },
+    {
+        "id": 33,
+        "name": "Adam Zampa",
+        "team": "Sunrisers Hyderabad",
+        "role": "Bowler"
+    },
+    {
+        "id": 34,
+        "name": "Wanindu Hasaranga",
+        "team": "Rajasthan Royals",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 35,
+        "name": "Noor Ahmad",
+        "team": "Chennai Super Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 36,
+        "name": "Atharva Taide",
+        "team": "Sunrisers Hyderabad",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 37,
+        "name": "Nehal Wadhera",
+        "team": "Punjab",
+        "role": "Batsman"
+    },
+    {
+        "id": 38,
+        "name": "Angkrish Raghuvanshi",
+        "team": "Kolkata Knight Riders",
+        "role": "Batsman"
+    },
+    {
+        "id": 39,
+        "name": "Karun Nair",
+        "team": "Delhi Capitals",
+        "role": "Batsman"
+    },
+    {
+        "id": 40,
+        "name": "Abhinav Manohar",
+        "team": "Sunrisers Hyderabad",
+        "role": "Batsman"
+    },
+    {
+        "id": 41,
+        "name": "Nishant Sindhu",
+        "team": "Gujarat Titans",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 42,
+        "name": "Sameer Rizvi",
+        "team": "Delhi Capitals",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 43,
+        "name": "Naman Dhir",
+        "team": "Mumbai Indians",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 44,
+        "name": "Abdul Samad",
+        "team": "Lucknow Super Giants",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 45,
+        "name": "Harpreet Brar",
+        "team": "Punjab Kings",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 46,
+        "name": "Vijay Shankar",
+        "team": "Chennai Super Kings",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 47,
+        "name": "Mahipal Lomror",
+        "team": "Gujarat Titans",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 48,
+        "name": "Ashutosh Sharma",
+        "team": "Delhi Capitals",
+        "role": "All-Rounder"
+    },
+    {
+        "id": 49,
+        "name": "Kumar Kushagra",
+        "team": "Gujarat Titans",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 50,
+        "name": "Robin Minz",
+        "team": "Mumbai Indians",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 51,
+        "name": "Anuj Rawat",
+        "team": "Gujarat Titans",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 52,
+        "name": "Aryan Juyal",
+        "team": "Lucknow Super Giants",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 53,
+        "name": "Vishnu Vinod",
+        "team": "Punjab Kings",
+        "role": "Wicketkeeper-Batsman"
+    },
+    {
+        "id": 54,
+        "name": "Rasikh Salam",
+        "team": "Royal Challengers Bangalore",
+        "role": "Bowler"
+    },
+    {
+        "id": 55,
+        "name": "Akash Madhwal",
+        "team": "Rajasthan Royals",
+        "role": "Bowler"
+    },
+    {
+        "id": 56,
+        "name": "Mohit Sharma",
+        "team": "Delhi Capitals",
+        "role": "Bowler"
+    },
+    {
+        "id": 57,
+        "name": "Vyshak Vijaykumar",
+        "team": "Punjab Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 58,
+        "name": "Vaibhav Arora",
+        "team": "Kolkata Knight Riders",
+        "role": "Bowler"
+    },
+    {
+        "id": 59,
+        "name": "Yash Thakur",
+        "team": "Punjab Kings",
+        "role": "Bowler"
+    },
+    {
+        "id": 60,
+        "name": "Simarjeet Singh",
+        "team": "Sunrisers Hyderabad",
+        "role": "Bowler"
+    },
+    {
+        "id": 61,
+        "name": "Suyash Sharma",
+        "team": "Royal Challengers Bangalore",
+        "role": "Bowler"
+    },
+    {
+        "id": 62,
+        "name": "Karn Sharma",
+        "team": "Mumbai Indians",
+        "role": "Bowler"
+    },
+    {
+        "id": 63,
+        "name": "Mayank Markande",
+        "team": "Kolkata Knight Riders",
+        "role": "Bowler"
+    },
+    {
+        "id": 64,
+        "name": "Kartikeya Singh",
+        "team": "Rajasthan Royals",
+        "role": "Bowler"
+    },
+    {
+        "id": 65,
+        "name": "Manav Suthar",
+        "team": "Gujarat Titans",
+        "role": "Bowler"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+      "id": 1,
+      "name": "Rinku Singh",
+      "team": "Kolkata Knight Riders",
+      "role": "Batsman"
+    },
+    {
+      "id": 2,
+      "name": "Varun Chakravarthy",
+      "team": "Kolkata Knight Riders",
+      "role": "Bowler"
+    },
+    {
+      "id": 3,
+      "name": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 4,
+      "name": "Andre Russell",
+      "team": "Kolkata Knight Riders",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 5,
+      "name": "Harshit Rana",
+      "team": "Kolkata Knight Riders",
+      "role": "Bowler"
+    },
+    {
+      "id": 6,
+      "name": "Ramandeep Singh",
+      "team": "Kolkata Knight Riders",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 7,
+      "name": "Sanju Samson",
+      "team": "Rajasthan Royals",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 8,
+      "name": "Yashasvi Jaiswal",
+      "team": "Rajasthan Royals",
+      "role": "Batsman"
+    },
+    {
+      "id": 9,
+      "name": "Riyan Parag",
+      "team": "Rajasthan Royals",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 10,
+      "name": "Dhruv Jurel",
+      "team": "Rajasthan Royals",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 11,
+      "name": "Shimron Hetmyer",
+      "team": "Rajasthan Royals",
+      "role": "Batsman"
+    },
+    {
+      "id": 12,
+      "name": "Sandeep Sharma",
+      "team": "Rajasthan Royals",
+      "role": "Bowler"
+    },
+    {
+      "id": 13,
+      "name": "Shashank Singh",
+      "team": "Punjab Kings",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 14,
+      "name": "Prabhsimran Singh",
+      "team": "Punjab Kings",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 15,
+      "name": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "role": "Bowler"
+    },
+    {
+      "id": 16,
+      "name": "Shubman Gill",
+      "team": "Gujarat Titans",
+      "role": "Batsman"
+    },
+    {
+      "id": 17,
+      "name": "Sai Sudharsan",
+      "team": "Gujarat Titans",
+      "role": "Batsman"
+    },
+    {
+      "id": 18,
+      "name": "Rahul Tewatia",
+      "team": "Gujarat Titans",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 19,
+      "name": "Shahrukh Khan",
+      "team": "Gujarat Titans",
+      "role": "Batsman"
+    },
+    {
+      "id": 20,
+      "name": "Nicholas Pooran",
+      "team": "Lucknow Super Giants",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 21,
+      "name": "Ravi Bishnoi",
+      "team": "Lucknow Super Giants",
+      "role": "Bowler"
+    },
+    {
+      "id": 22,
+      "name": "Mayank Yadav",
+      "team": "Lucknow Super Giants",
+      "role": "Bowler"
+    },
+    {
+      "id": 23,
+      "name": "Ayush Badoni",
+      "team": "Lucknow Super Giants",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 24,
+      "name": "Mohsin Khan",
+      "team": "Lucknow Super Giants",
+      "role": "Bowler"
+    },
+    {
+      "id": 25,
+      "name": "Pat Cummins",
+      "team": "Sunrisers Hyderabad",
+      "role": "Bowler"
+    },
+    {
+      "id": 26,
+      "name": "Heinrich Klaasen",
+      "team": "Sunrisers Hyderabad",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 27,
+      "name": "Abhishek Sharma",
+      "team": "Sunrisers Hyderabad",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 28,
+      "name": "MS Dhoni",
+      "team": "Chennai Super Kings",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 29,
+      "name": "Matheesha Pathirana",
+      "team": "Chennai Super Kings",
+      "role": "Bowler"
+    },
+    {
+      "id": 30,
+      "name": "Ruturaj Gaikwad",
+      "team": "Chennai Super Kings",
+      "role": "Batsman"
+    },
+    {
+      "id": 31,
+      "name": "Ravindra Jadeja",
+      "team": "Chennai Super Kings",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 32,
+      "name": "Shivam Dube",
+      "team": "Chennai Super Kings",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 33,
+      "name": "Axar Patel",
+      "team": "Delhi Capitals",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 34,
+      "name": "Kuldeep Yadav",
+      "team": "Delhi Capitals",
+      "role": "Bowler"
+    },
+    {
+      "id": 35,
+      "name": "Tristan Stubbs",
+      "team": "Delhi Capitals",
+      "role": "Batsman"
+    },
+    {
+      "id": 36,
+      "name": "Abishek Porel",
+      "team": "Delhi Capitals",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 37,
+      "name": "Virat Kohli",
+      "team": "Royal Challengers Bangalore",
+      "role": "Batsman"
+    },
+    {
+      "id": 38,
+      "name": "Rajat Patidar",
+      "team": "Royal Challengers Bangalore",
+      "role": "Batsman"
+    },
+    {
+      "id": 39,
+      "name": "Yash Dayal",
+      "team": "Royal Challengers Bangalore",
+      "role": "Bowler"
+    },
+    {
+      "id": 40,
+      "name": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "role": "Bowler"
+    },
+    {
+      "id": 41,
+      "name": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "role": "Batsman"
+    },
+    {
+      "id": 42,
+      "name": "Hardik Pandya",
+      "team": "Mumbai Indians",
+      "role": "All-Rounder"
+    },
+    {
+      "id": 43,
+      "name": "Rohit Sharma",
+      "team": "Mumbai Indians",
+      "role": "Batsman"
+    },
+    {
+      "id": 44,
+      "name": "Tilak Varma",
+      "team": "Mumbai Indians",
+      "role": "Batsman"
+    },
+    {
+      "id": 45,
+      "name": "Heinrich Klaasen",
+      "team": "Sunrisers Hyderabad",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "id": 46,
+      "name": "Pat Cummins",
+      "team": "Sunrisers Hyderabad",
+      "role": "Bowler"
+    },
+    {
+      "id": 47,
+      "name": "Travis Head",
+      "team": "Sunrisers Hyderabad",
+      "role": "Batsman"
+    },
+    {
+      "id": 48,
+      "name": "Nitish Reddy",
+      "team": "Sunrisers Hyderabad",
+      "role": "All-Rounder"
+    }
+  ]
+  
+  

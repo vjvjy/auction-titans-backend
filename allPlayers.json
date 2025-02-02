@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "name": "MS Dhoni",
+        "team": "Chennai Super Kings",
+        "role": "Wicketkeeper Batter",
+        "points": 0
+    },
+    {
+        "id": 2,
+        "name": "Shaik Rasheed",
+        "team": "Chennai Super Kings",
+        "role": "Batter",
+        "points": 0
+    },
+    {
+        "id": 3,
+        "name": "Rahul Tripathi",
+        "team": "Chennai Super Kings",
+        "role": "Top order Batter",
+        "points": 0
+    },
+    {
+        "id": 4,
+        "name": "Ravichandran Ashwin",
+        "team": "Chennai Super Kings",
+        "role": "Bowling Allrounder",
+        "points": 0
+    },
+    {
+        "id": 5,
+        "name": "Sam Curran",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 6,
+        "name": "Shivam Dube",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 7,
+        "name": "Shreyas Gopal",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 8,
+        "name": "Deepak Hooda",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 9,
+        "name": "Ravindra Jadeja",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 10,
+        "name": "Anshul Kamboj",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 11,
+        "name": "Jamie Overton",
+        "team": "Chennai Super Kings",
+        "role": "Bowling Allrounder",
+        "points": 0
+    },
+    {
+        "id": 12,
+        "name": "Rachin Ravindra",
+        "team": "Chennai Super Kings",
+        "role": "Batting Allrounder",
+        "points": 0
+    },
+    {
+        "id": 13,
+        "name": "Vijay Shankar",
+        "team": "Chennai Super Kings",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 14,
+        "name": "Khaleel Ahmed",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 15,
+        "name": "Nathan Ellis",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 16,
+        "name": "Gurjapneet Singh",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 17,
+        "name": "Mukesh Choudhary",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 18,
+        "name": "Kamlesh Nagarkoti",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 19,
+        "name": "Noor Ahmad",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 20,
+        "name": "Matheesha Pathirana",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 21,
+        "name": "Ruturaj Gaikwad",
+        "team": "Chennai Super Kings",
+        "role": "Batter",
+        "points": 0
+    },
+    {
+        "id": 22,
+        "name": "Devon Conway",
+        "team": "Chennai Super Kings",
+        "role": "Batter",
+        "points": 0
+    },
+    {
+        "id": 23,
+        "name": "C Andre Siddarth",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 24,
+        "name": "Vansh Bedi",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 25,
+        "name": "Ramakrishna Ghosh",
+        "team": "Chennai Super Kings",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 1,
+        "name": "Axar Patel",
+        "team": "Delhi Capitals",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 2,
+        "name": "KL Rahul",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 3,
+        "name": "Kuldeep Yadav",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 4,
+        "name": "Mitchell Starc",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 5,
+        "name": "T Natarajan",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 6,
+        "name": "Tristan Stubbs",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 7,
+        "name": "Jake Fraser-McGurk",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 8,
+        "name": "Mukesh Kumar",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 9,
+        "name": "Abishek Porel",
+        "team": "Delhi Capitals",
+        "role": "Wicketkeeper",
+        "points": 0
+    },
+    {
+        "id": 10,
+        "name": "Ricky Bhui",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 11,
+        "name": "Swastik Chikara",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 12,
+        "name": "Yash Dhull",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 13,
+        "name": "Shai Hope",
+        "team": "Delhi Capitals",
+        "role": "Wicketkeeper",
+        "points": 0
+    },
+    {
+        "id": 14,
+        "name": "Kumar Kushagra",
+        "team": "Delhi Capitals",
+        "role": "Wicketkeeper",
+        "points": 0
+    },
+    {
+        "id": 15,
+        "name": "Prithvi Shaw",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 16,
+        "name": "David Warner",
+        "team": "Delhi Capitals",
+        "role": "Batsman",
+        "points": 0
+    },
+    {
+        "id": 17,
+        "name": "Lalit Yadav",
+        "team": "Delhi Capitals",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 18,
+        "name": "Mitchell Marsh",
+        "team": "Delhi Capitals",
+        "role": "Allrounder",
+        "points": 0
+    },
+    {
+        "id": 19,
+        "name": "Sumit Kumar",
+        "team": "Delhi Capitals",
+        "role": "Wicketkeeper",
+        "points": 0
+    },
+    {
+        "id": 20,
+        "name": "Khaleel Ahmed",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 21,
+        "name": "Praveen Dubey",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 22,
+        "name": "Anrich Nortje",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 23,
+        "name": "Vicky Ostwal",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 24,
+        "name": "Rasikh Salam",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 25,
+        "name": "Jhye Richardson",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    },
+    {
+        "id": 26,
+        "name": "Ishant Sharma",
+        "team": "Delhi Capitals",
+        "role": "Bowler",
+        "points": 0
+    }
+]
