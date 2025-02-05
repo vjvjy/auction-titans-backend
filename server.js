@@ -31,15 +31,26 @@ app.use(bodyParser.json());
 mongoose.connect(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true
+}).then(() => {
+    console.log('MongoDB connected successfully');
+}).catch((err) => {
+    console.error('MongoDB connection error:', err);
 });
 
 // User model
-const Player = mongoose.model("User", new mongoose.Schema({
+const Player = mongoose.model("Player", new mongoose.Schema({
   id: Number,
   name: String,
   team: String,
   role: String,
   points: Number
+}));
+
+//Sign up model
+const User = mongoose.model("NewTeam", new mongoose.Schema({
+    username: String,
+    teamname: String,
+    password: String
 }));
 
 // Routes
@@ -55,18 +66,60 @@ app.get("/players", async (req, res) => {
 });
 
 // POST - Add a new user
-// app.post("/users", async (req, res) => {
-//     const { name, email } = req.body;
+app.post("/signup", async (req, res) => {
+    debugger;
+    console.log("printing req============", req);
+     // Check if the username already exists
+     const existingUser = await User.findOne({ username });
 
-//     const newUser = new User({ name, email });
+     if (existingUser) {
+        return res.status(400).json({ message: "Username already exists!" });
+     }
+    const { username, teamname, password } = req.body.input;
 
-//     try {
-//         await newUser.save();
-//         res.status(201).json(newUser);
-//     } catch (error) {
-//         res.status(400).send(error);
-//     }
-// });
+    const newUser = new User({ username, teamname, password });
+
+    try {
+        const test = await newUser.save();
+        console.log("testing entry----------->", test)
+        res.status(201).json(test);
+    } catch (error) {
+        res.status(400).send(error);
+    }
+});
+
+// POST - Login User
+app.post("/login", async (req, res) => {
+    const { username, password } = req.body.input;
+
+    try {
+        // Check if user exists
+        const user = await User.findOne({ username });
+
+        if (!user) {
+            return res.status(400).json({ message: "User not found!" });
+        }
+
+        // Check if the password matches
+        if (user.password !== password) {
+            return res.status(400).json({ message: "Incorrect password!" });
+        }
+
+        // If login is successful, return the user data (or token if you're using JWT for authentication)
+        res.status(200).json({
+            message: "Login successful",
+            user: {
+                username: user.username,
+                teamname: user.teamname,
+                // You can send more user data here if needed
+            }
+        });
+    } catch (error) {
+        console.error("Error during login:", error);
+        res.status(500).json({ message: "Server error" });
+    }
+});
+
 
 // PUT - Update user details
 // app.put("/users/:id", async (req, res) => {
